@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 Currently I am working as a scientist and bioinformatician at the AIT Austrian Institute of Technology. 
 For my research interests please visit the <a href="https://www.ait.ac.at/en/research-topics/translate-to-english-bioresources/translate-to-english-improving-plant-quality"> AIT page</a>, an overview is also given on my <a href="https://evasehr.github.io"> github.io page</a>.
 Although my current focus as a bioinformatician lies on data from microbe-plant interactions (e.g. transcriptomcis from the plant's side, 
-and community analyses from the microbial part) I am also very much interested in machine learning in the agricultural sector. Soon more to come.
+and community analyses from the microbial part) I am also very much interested in machine learning approaches. 
 
 ### Overview of my repositories
 Briefly, I am using github for code I am currently working with and to "store" code for already analysed and published data. 
