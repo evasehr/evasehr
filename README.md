@@ -19,7 +19,8 @@ It contains
 - 🌱 Repos with code for classical community analysis of amplicon sequencing data (private)
 - 🌱 A repo for classical transcriptmics analysis (private)
 
-### Code that has been developed by my students within research projects can also be accessed through my <a href="https://github.com/MolinLab"> MolinLab page</a> organization: 
+### Repos within my <a href="https://github.com/MolinLab"> MolinLab page</a> organizationCode 
+Here, code is stored that has been developed by my students within research projects. 
 This contains
 
 - 🌱 The repo for the Shiny application Holomics
