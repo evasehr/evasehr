@@ -3,7 +3,7 @@ evasehr/evasehr is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-## Hi, I am Eva. Welcome to my github world. 
+## Hi, I am Eva Molin. Welcome to my github world. 
 
 Currently I am working as a scientist and bioinformatician at the AIT Austrian Institute of Technology. 
 For my research interests please visit the <a href="https://www.ait.ac.at/en/research-topics/translate-to-english-bioresources/translate-to-english-improving-plant-quality"> AIT page</a>, an overview is also given on my <a href="https://evasehr.github.io"> github.io page</a>.
@@ -17,6 +17,12 @@ It contains
 - 🌱 Repos related to my bioinformatics master studies 
 - 🌱 A repo with the code I used for my master thesis
 - 🌱 Repos with code for classical community analysis of amplicon sequencing data (private)
-- 🌱 A repo for the development of a Shiny App for multi-omics data analysis (still private)
 - 🌱 A repo for classical transcriptmics analysis (private)
+
+### Code that has been developed by my students within research projects can also be accessed through my <a href="https://github.com/MolinLab"> MolinLab page</a> organization: 
+This contains
+
+- 🌱 The repo for the Shiny application Holomics
+- 🌱 A repo for the processing and analysis of data out of hyperspectral and fluorescence camera systems (private)
+- 🌱 A repo for climate modelling based on SSP scenarios (private)
  
