@@ -19,7 +19,7 @@ It contains
 - 🌱 Repos with code for classical community analysis of amplicon sequencing data (private)
 - 🌱 A repo for classical transcriptmics analysis (private)
 
-### Repos within my <a href="https://github.com/MolinLab"> MolinLab page</a> organizationCode 
+### Repos within my <a href="https://github.com/MolinLab"> MolinLab page</a> organization
 Here, code is stored that has been developed by my students within research projects. 
 This contains
 
